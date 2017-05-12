@@ -11,4 +11,7 @@ Usage:
    [Element list] is a list of elements of interest, each of them seperate by space
    [Output name] should include .gml
 
-3. Example: python Trace_to_GML.py trace.txt elements test.gml
+3. Visualize the .gml file using other programs such as yEd graph editor (https://www.yworks.com/products/yed).
+
+* Example: python Trace_to_GML.py trace.txt elements test.gml
+![alt text](https://github.com/kaiwen789/State-Graph/blob/master/result.png)
